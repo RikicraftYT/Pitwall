@@ -958,7 +958,293 @@
      "out": false
     }
    ]
+  },
+  "RAC": {
+   "final": false,
+   "source": "MotoGP.com",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "David Alonso",
+     "team": "CFMOTO RCB Aspar Team",
+     "color": "#0CA9B3",
+     "value": "35:44.732",
+     "out": false,
+     "points": 25,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 2,
+     "name": "Daniel Holgado",
+     "team": "CFMOTO RCB Aspar Team",
+     "color": "#0CA9B3",
+     "value": "+1.932",
+     "out": false,
+     "points": 20,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 3,
+     "name": "Angel Piqueras",
+     "team": "QJMOTOR - MSI",
+     "color": "#C70026",
+     "value": "+3.565",
+     "out": false,
+     "points": 16,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 4,
+     "name": "Izan Guevara",
+     "team": "BLU CRU Pramac Yamaha Moto2",
+     "color": "#173A72",
+     "value": "+6.182",
+     "out": false,
+     "points": 13,
+     "maker": "Boscoscuro"
+    },
+    {
+     "pos": 5,
+     "name": "Manuel Gonzalez",
+     "team": "LIQUI MOLY Dynavolt Intact GP",
+     "color": "#54545A",
+     "value": "+14.130",
+     "out": false,
+     "points": 11,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 6,
+     "name": "Adrian Huertas",
+     "team": "Italtrans Racing Team",
+     "color": "#1B6FA7",
+     "value": "+16.651",
+     "out": false,
+     "points": 10,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 7,
+     "name": "Collin Veijer",
+     "team": "Red Bull KTM Ajo",
+     "color": "#F35C06",
+     "value": "+17.705",
+     "out": false,
+     "points": 9,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 8,
+     "name": "Ivan Ortola",
+     "team": "QJMOTOR - MSI",
+     "color": "#C70026",
+     "value": "+17.981",
+     "out": false,
+     "points": 8,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 9,
+     "name": "Celestino Vietti",
+     "team": "BETA Tools SpeedRS Team",
+     "color": "#148DBC",
+     "value": "+18.553",
+     "out": false,
+     "points": 7,
+     "maker": "Boscoscuro"
+    },
+    {
+     "pos": 10,
+     "name": "Alex Escrig",
+     "team": "KLINT Racing Team",
+     "color": "#7CD7BC",
+     "value": "+19.175",
+     "out": false,
+     "points": 6,
+     "maker": "Forward"
+    },
+    {
+     "pos": 11,
+     "name": "Jose Antonio Rueda",
+     "team": "Red Bull KTM Ajo",
+     "color": "#F35C06",
+     "value": "+20.150",
+     "out": false,
+     "points": 5,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 12,
+     "name": "Alonso Lopez",
+     "team": "ITALJET Gresini Moto2",
+     "color": "#9EABE2",
+     "value": "+20.334",
+     "out": false,
+     "points": 4,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 13,
+     "name": "Daniel Muñoz",
+     "team": "Italtrans Racing Team",
+     "color": "#1B6FA7",
+     "value": "+20.751",
+     "out": false,
+     "points": 3,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 14,
+     "name": "Filip Salac",
+     "team": "OnlyFans American Racing Team",
+     "color": "#132EAA",
+     "value": "+22.298",
+     "out": false,
+     "points": 2,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 15,
+     "name": "Senna Agius",
+     "team": "LIQUI MOLY Dynavolt Intact GP",
+     "color": "#54545A",
+     "value": "+23.683",
+     "out": false,
+     "points": 1,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 16,
+     "name": "Tony Arbolino",
+     "team": "REDS Fantic Racing",
+     "color": "#B2BAB9",
+     "value": "+24.858",
+     "out": false,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 17,
+     "name": "Barry Baltus",
+     "team": "REDS Fantic Racing",
+     "color": "#B2BAB9",
+     "value": "+27.725",
+     "out": false,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 18,
+     "name": "Joe Roberts",
+     "team": "OnlyFans American Racing Team",
+     "color": "#132EAA",
+     "value": "+27.878",
+     "out": false,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 19,
+     "name": "Xabi Zurutuza",
+     "team": "KLINT Racing Team",
+     "color": "#7CD7BC",
+     "value": "+29.059",
+     "out": false,
+     "points": 0,
+     "maker": "Forward"
+    },
+    {
+     "pos": 20,
+     "name": "Alberto Ferrandez",
+     "team": "BLU CRU Pramac Yamaha Moto2",
+     "color": "#173A72",
+     "value": "+30.301",
+     "out": false,
+     "points": 0,
+     "maker": "Boscoscuro"
+    },
+    {
+     "pos": 21,
+     "name": "Zonta Vd Goorbergh",
+     "team": "Momoven Idrofoglia RW Racing Team",
+     "color": "#DE5223",
+     "value": "+33.279",
+     "out": false,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": 22,
+     "name": "Matteo Ferrari",
+     "team": "ITALJET Gresini Moto2",
+     "color": "#9EABE2",
+     "value": "+42.658",
+     "out": false,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": "–",
+     "name": "Jacob Roulstone",
+     "team": "ELF Marc VDS Racing Team",
+     "color": "#622338",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Boscoscuro"
+    },
+    {
+     "pos": "–",
+     "name": "Ayumu Sasaki",
+     "team": "Momoven Idrofoglia RW Racing Team",
+     "color": "#DE5223",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": "–",
+     "name": "Taiyo Furusato",
+     "team": "Idemitsu Honda Team Asia",
+     "color": "#FFFFFF",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": "–",
+     "name": "Luca Lunetta",
+     "team": "BETA Tools SpeedRS Team",
+     "color": "#148DBC",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Boscoscuro"
+    },
+    {
+     "pos": "–",
+     "name": "Mario Aji",
+     "team": "Idemitsu Honda Team Asia",
+     "color": "#FFFFFF",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Kalex"
+    },
+    {
+     "pos": "–",
+     "name": "Deniz öncü",
+     "team": "ELF Marc VDS Racing Team",
+     "color": "#622338",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Boscoscuro"
+    }
+   ]
   }
  },
- "updatedAt": "2026-10-31T13:28:15.908Z"
+ "updatedAt": "2026-11-01T06:15:10.047Z"
 }

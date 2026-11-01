@@ -932,7 +932,213 @@
      "maker": "Ducati"
     }
    ]
+  },
+  "RAC": {
+   "final": true,
+   "source": "MotoGP.com",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Marc Marquez",
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "value": "40:14.236",
+     "out": false,
+     "points": 25,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 2,
+     "name": "Pedro Acosta",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#F37021",
+     "value": "+4.172",
+     "out": false,
+     "points": 20,
+     "maker": "KTM"
+    },
+    {
+     "pos": 3,
+     "name": "Alex Marquez",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#92A8D1",
+     "value": "+5.955",
+     "out": false,
+     "points": 16,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 4,
+     "name": "Ai Ogura",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#008DD2",
+     "value": "+6.759",
+     "out": false,
+     "points": 13,
+     "maker": "Aprilia"
+    },
+    {
+     "pos": 5,
+     "name": "Enea Bastianini",
+     "team": "Red Bull KTM Tech3",
+     "color": "#E96B1E",
+     "value": "+10.896",
+     "out": false,
+     "points": 11,
+     "maker": "KTM"
+    },
+    {
+     "pos": 6,
+     "name": "Marco Bezzecchi",
+     "team": "Aprilia Racing",
+     "color": "#8A2BE2",
+     "value": "+11.259",
+     "out": false,
+     "points": 10,
+     "maker": "Aprilia"
+    },
+    {
+     "pos": 7,
+     "name": "Luca Marini",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "value": "+17.724",
+     "out": false,
+     "points": 9,
+     "maker": "Honda"
+    },
+    {
+     "pos": 8,
+     "name": "Fabio Di Giannantonio",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#CCFF00",
+     "value": "+17.790",
+     "out": false,
+     "points": 8,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 9,
+     "name": "Brad Binder",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#F37021",
+     "value": "+23.729",
+     "out": false,
+     "points": 7,
+     "maker": "KTM"
+    },
+    {
+     "pos": 10,
+     "name": "Franco Morbidelli",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#CCFF00",
+     "value": "+25.097",
+     "out": false,
+     "points": 6,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 11,
+     "name": "Fabio Quartararo",
+     "team": "Monster Energy Yamaha MotoGP Team",
+     "color": "#0033A0",
+     "value": "+25.826",
+     "out": false,
+     "points": 5,
+     "maker": "Yamaha"
+    },
+    {
+     "pos": 12,
+     "name": "Alex Rins",
+     "team": "Monster Energy Yamaha MotoGP Team",
+     "color": "#0033A0",
+     "value": "+27.063",
+     "out": false,
+     "points": 4,
+     "maker": "Yamaha"
+    },
+    {
+     "pos": 13,
+     "name": "Francesco Bagnaia",
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "value": "+32.960",
+     "out": false,
+     "points": 3,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 14,
+     "name": "Maverick Viñales",
+     "team": "Red Bull KTM Tech3",
+     "color": "#E96B1E",
+     "value": "+34.597",
+     "out": false,
+     "points": 2,
+     "maker": "KTM"
+    },
+    {
+     "pos": 15,
+     "name": "Iker Lecuona",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#92A8D1",
+     "value": "+38.446",
+     "out": false,
+     "points": 1,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 16,
+     "name": "Jack Miller",
+     "team": "Prima Pramac Yamaha MotoGP",
+     "color": "#1A53D8",
+     "value": "+43.327",
+     "out": false,
+     "points": 0,
+     "maker": "Yamaha"
+    },
+    {
+     "pos": "–",
+     "name": "Johann Zarco",
+     "team": "Castrol Honda LCR",
+     "color": "#E0E0E0",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Honda"
+    },
+    {
+     "pos": "–",
+     "name": "Diogo Moreira",
+     "team": "Pro Honda LCR",
+     "color": "#E0E0E0",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Honda"
+    },
+    {
+     "pos": "–",
+     "name": "Joan Mir",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Honda"
+    },
+    {
+     "pos": "–",
+     "name": "Augusto Fernandez",
+     "team": "Prima Pramac Yamaha MotoGP",
+     "color": "#1A53D8",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Yamaha"
+    }
+   ]
   }
  },
- "updatedAt": "2026-10-31T13:28:13.737Z"
+ "updatedAt": "2026-11-01T13:37:02.934Z"
 }

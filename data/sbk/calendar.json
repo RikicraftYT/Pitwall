@@ -8,7 +8,7 @@
    "name": "Australian Round",
    "country": "AU",
    "city": "Phillip Island",
-   "circuit": "Phillip Island Grand Prix Circuit",
+   "circuit": "Phillip Island",
    "sessions": [
     {
      "id": "FP1",
@@ -77,7 +77,7 @@
    "name": "Pirelli Portuguese Round",
    "country": "PT",
    "city": "Portimão",
-   "circuit": "Autódromo Internacional do Algarve",
+   "circuit": "Portimão",
    "sessions": [
     {
      "id": "FP1",
@@ -146,7 +146,7 @@
    "name": "Pirelli Dutch Round",
    "country": "NL",
    "city": "Assen",
-   "circuit": "TT Circuit Assen",
+   "circuit": "TT Assen",
    "sessions": [
     {
      "id": "FP1",
@@ -284,7 +284,7 @@
    "name": "Czech Round",
    "country": "CZ",
    "city": "Most",
-   "circuit": "Most Autodrom",
+   "circuit": "Most",
    "sessions": [
     {
      "id": "FP1",
@@ -353,7 +353,7 @@
    "name": "Aragon Round",
    "country": "ES",
    "city": "Alcañiz",
-   "circuit": "Motorland Aragón",
+   "circuit": "Aragón",
    "sessions": [
     {
      "id": "FP1",
@@ -422,7 +422,7 @@
    "name": "Pirelli Emilia-Romagna Round",
    "country": "IT",
    "city": "Misano Adriatico",
-   "circuit": "Misano Circuit Sic 58",
+   "circuit": "Misano",
    "sessions": [
     {
      "id": "FP1",
@@ -560,7 +560,7 @@
    "name": "Acerbis French Round",
    "country": "FR",
    "city": "Nièvre",
-   "circuit": "Circuit de Nevers Magny-Cours",
+   "circuit": "Magny-Cours",
    "sessions": [
     {
      "id": "FP1",
@@ -629,7 +629,7 @@
    "name": "EICMA Italian Round",
    "country": "IT",
    "city": "Cremona",
-   "circuit": "Cremona Circuit",
+   "circuit": "Cremona",
    "sessions": [
     {
      "id": "FP1",
@@ -698,7 +698,7 @@
    "name": "Tissot Estoril Round",
    "country": "PT",
    "city": "Alcabideche",
-   "circuit": "Circuito Estoril",
+   "circuit": "Estoril",
    "sessions": [
     {
      "id": "FP1",
@@ -831,5 +831,5 @@
    ]
   }
  ],
- "updatedAt": "2026-10-28T17:18:53.606Z"
+ "updatedAt": "2026-11-03T17:08:41.382Z"
 }

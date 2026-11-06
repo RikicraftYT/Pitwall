@@ -2,7 +2,7 @@
  "weekend": "2026-QAT",
  "sessions": {
   "FP1": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -150,7 +150,157 @@
      "out": false
     }
    ]
+  },
+  "PR": {
+   "final": true,
+   "source": "MotoGP.com",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Fabio Di Giannantonio",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#CCFF00",
+     "value": "1:50.406",
+     "out": false
+    },
+    {
+     "pos": 2,
+     "name": "Marc Marquez",
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "value": "+0.142",
+     "out": false
+    },
+    {
+     "pos": 3,
+     "name": "Marco Bezzecchi",
+     "team": "Aprilia Racing",
+     "color": "#8A2BE2",
+     "value": "+0.260",
+     "out": false
+    },
+    {
+     "pos": 4,
+     "name": "Francesco Bagnaia",
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "value": "+0.386",
+     "out": false
+    },
+    {
+     "pos": 5,
+     "name": "Raul Fernandez",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#008DD2",
+     "value": "+0.608",
+     "out": false
+    },
+    {
+     "pos": 6,
+     "name": "Enea Bastianini",
+     "team": "Red Bull KTM Tech3",
+     "color": "#E96B1E",
+     "value": "+0.618",
+     "out": false
+    },
+    {
+     "pos": 7,
+     "name": "Jorge Martin",
+     "team": "Aprilia Racing",
+     "color": "#8A2BE2",
+     "value": "+0.635",
+     "out": false
+    },
+    {
+     "pos": 8,
+     "name": "Johann Zarco",
+     "team": "Castrol Honda LCR",
+     "color": "#E0E0E0",
+     "value": "+0.895",
+     "out": false
+    },
+    {
+     "pos": 9,
+     "name": "Ai Ogura",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#008DD2",
+     "value": "+0.912",
+     "out": false
+    },
+    {
+     "pos": 10,
+     "name": "Brad Binder",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#F37021",
+     "value": "+1.003",
+     "out": false
+    },
+    {
+     "pos": 11,
+     "name": "Fermin Aldeguer",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#92A8D1",
+     "value": "+1.041",
+     "out": false
+    },
+    {
+     "pos": 12,
+     "name": "Franco Morbidelli",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#CCFF00",
+     "value": "+1.078",
+     "out": false
+    },
+    {
+     "pos": 13,
+     "name": "Luca Marini",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "value": "+1.142",
+     "out": false
+    },
+    {
+     "pos": 14,
+     "name": "Pedro Acosta",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#F37021",
+     "value": "+1.169",
+     "out": false
+    },
+    {
+     "pos": 15,
+     "name": "Maverick Viñales",
+     "team": "Red Bull KTM Tech3",
+     "color": "#E96B1E",
+     "value": "+1.247",
+     "out": false
+    },
+    {
+     "pos": 16,
+     "name": "Iker Lecuona",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#92A8D1",
+     "value": "+1.324",
+     "out": false
+    },
+    {
+     "pos": 17,
+     "name": "Diogo Moreira",
+     "team": "Pro Honda LCR",
+     "color": "#E0E0E0",
+     "value": "+1.786",
+     "out": false
+    },
+    {
+     "pos": 18,
+     "name": "Jake Dixon",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "value": "+1.987",
+     "out": false
+    }
+   ]
   }
  },
- "updatedAt": "2026-11-06T15:09:38.038Z"
+ "updatedAt": "2026-11-06T20:55:04.228Z"
 }

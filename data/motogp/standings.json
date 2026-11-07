@@ -11,14 +11,14 @@
      "name": "Marc Marquez",
      "team": "Ducati Lenovo Team",
      "color": "#C51E14",
-     "points": 399
+     "points": 411
     },
     {
      "pos": 2,
      "name": "Jorge Martin",
      "team": "Aprilia Racing",
      "color": "#8A2BE2",
-     "points": 355
+     "points": 362
     },
     {
      "pos": 3,
@@ -32,28 +32,28 @@
      "name": "Pedro Acosta",
      "team": "Red Bull KTM Factory Racing",
      "color": "#F37021",
-     "points": 295
+     "points": 299
     },
     {
      "pos": 5,
      "name": "Ai Ogura",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#008DD2",
-     "points": 278
+     "points": 281
     },
     {
      "pos": 6,
      "name": "Fabio Di Giannantonio",
      "team": "Pertamina Enduro VR46 Racing Team",
      "color": "#CCFF00",
-     "points": 265
+     "points": 274
     },
     {
      "pos": 7,
      "name": "Raul Fernandez",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#008DD2",
-     "points": 236
+     "points": 242
     },
     {
      "pos": 8,
@@ -74,7 +74,7 @@
      "name": "Enea Bastianini",
      "team": "Red Bull KTM Tech3",
      "color": "#E96B1E",
-     "points": 134
+     "points": 136
     },
     {
      "pos": 11,
@@ -123,7 +123,7 @@
      "name": "Johann Zarco",
      "team": "Castrol Honda LCR",
      "color": "#E0E0E0",
-     "points": 51
+     "points": 56
     },
     {
      "pos": 18,
@@ -165,7 +165,7 @@
      "name": "Iker Lecuona",
      "team": "BK8 Gresini Racing MotoGP",
      "color": "#92A8D1",
-     "points": 11
+     "points": 12
     },
     {
      "pos": 24,
@@ -204,27 +204,34 @@
     },
     {
      "pos": 29,
+     "name": "Jake Dixon",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "points": 0
+    },
+    {
+     "pos": 30,
      "name": "Jonas Folger",
      "team": "Red Bull KTM Tech3",
      "color": "#E96B1E",
      "points": 0
     },
     {
-     "pos": 30,
+     "pos": 31,
      "name": "Lorenzo Savadori",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#008DD2",
      "points": 0
     },
     {
-     "pos": 31,
+     "pos": 32,
      "name": "Michele Pirro",
      "team": "BK8 Gresini Racing MotoGP",
      "color": "#92A8D1",
      "points": 0
     },
     {
-     "pos": 32,
+     "pos": 33,
      "name": "Aleix Espargaro",
      "team": "Honda HRC Castrol",
      "color": "#D01012",
@@ -242,42 +249,42 @@
      "name": "Aprilia Racing",
      "team": "Aprilia",
      "color": "#8A2BE2",
-     "points": 687
+     "points": 694
     },
     {
      "pos": 2,
      "name": "Ducati Lenovo Team",
      "team": "Ducati",
      "color": "#C51E14",
-     "points": 572
+     "points": 584
     },
     {
      "pos": 3,
      "name": "SuperFile Trackhouse MotoGP Team",
      "team": "Aprilia",
      "color": "#008DD2",
-     "points": 514
+     "points": 523
     },
     {
      "pos": 4,
      "name": "Red Bull KTM Factory Racing",
      "team": "KTM",
      "color": "#F37021",
-     "points": 413
+     "points": 417
     },
     {
      "pos": 5,
-     "name": "BK8 Gresini Racing MotoGP",
-     "team": "Ducati",
-     "color": "#92A8D1",
-     "points": 333
-    },
-    {
-     "pos": 6,
      "name": "Pertamina Enduro VR46 Racing Team",
      "team": "Ducati",
      "color": "#CCFF00",
-     "points": 330
+     "points": 339
+    },
+    {
+     "pos": 6,
+     "name": "BK8 Gresini Racing MotoGP",
+     "team": "Ducati",
+     "color": "#92A8D1",
+     "points": 334
     },
     {
      "pos": 7,
@@ -291,14 +298,14 @@
      "name": "Red Bull KTM Tech3",
      "team": "KTM",
      "color": "#E96B1E",
-     "points": 153
+     "points": 155
     },
     {
      "pos": 9,
      "name": "Honda LCR",
      "team": "Honda",
      "color": "#E0E0E0",
-     "points": 129
+     "points": 134
     },
     {
      "pos": 10,
@@ -325,28 +332,28 @@
      "name": "Ducati",
      "team": "",
      "color": "#C51E14",
-     "points": 537
+     "points": 549
     },
     {
      "pos": 2,
      "name": "Aprilia",
      "team": "",
      "color": "#8A2BE2",
-     "points": 529
+     "points": 536
     },
     {
      "pos": 3,
      "name": "KTM",
      "team": "",
      "color": "#F37021",
-     "points": 348
+     "points": 352
     },
     {
      "pos": 4,
      "name": "Honda",
      "team": "",
      "color": "#D01012",
-     "points": 178
+     "points": 183
     },
     {
      "pos": 5,
@@ -359,5 +366,5 @@
   }
  ],
  "source": "MotoGP.com",
- "updatedAt": "2026-11-01T13:37:03.539Z"
+ "updatedAt": "2026-11-07T18:20:56.510Z"
 }

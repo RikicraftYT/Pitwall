@@ -302,7 +302,7 @@
    ]
   },
   "FP2": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -452,7 +452,7 @@
    ]
   },
   "Q1": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -522,7 +522,7 @@
    ]
   },
   "Q2": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -622,7 +622,193 @@
      "out": false
     }
    ]
+  },
+  "SPR": {
+   "final": false,
+   "source": "MotoGP.com",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Marc Marquez",
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "value": "18:46.450",
+     "out": false,
+     "points": 12,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 2,
+     "name": "Fabio Di Giannantonio",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#CCFF00",
+     "value": "+0.862",
+     "out": false,
+     "points": 9,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 3,
+     "name": "Jorge Martin",
+     "team": "Aprilia Racing",
+     "color": "#8A2BE2",
+     "value": "+1.519",
+     "out": false,
+     "points": 7,
+     "maker": "Aprilia"
+    },
+    {
+     "pos": 4,
+     "name": "Raul Fernandez",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#008DD2",
+     "value": "+2.700",
+     "out": false,
+     "points": 6,
+     "maker": "Aprilia"
+    },
+    {
+     "pos": 5,
+     "name": "Johann Zarco",
+     "team": "Castrol Honda LCR",
+     "color": "#E0E0E0",
+     "value": "+3.720",
+     "out": false,
+     "points": 5,
+     "maker": "Honda"
+    },
+    {
+     "pos": 6,
+     "name": "Pedro Acosta",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#F37021",
+     "value": "+4.664",
+     "out": false,
+     "points": 4,
+     "maker": "KTM"
+    },
+    {
+     "pos": 7,
+     "name": "Ai Ogura",
+     "team": "SuperFile Trackhouse MotoGP Team",
+     "color": "#008DD2",
+     "value": "+4.858",
+     "out": false,
+     "points": 3,
+     "maker": "Aprilia"
+    },
+    {
+     "pos": 8,
+     "name": "Enea Bastianini",
+     "team": "Red Bull KTM Tech3",
+     "color": "#E96B1E",
+     "value": "+5.582",
+     "out": false,
+     "points": 2,
+     "maker": "KTM"
+    },
+    {
+     "pos": 9,
+     "name": "Iker Lecuona",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#92A8D1",
+     "value": "+8.082",
+     "out": false,
+     "points": 1,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 10,
+     "name": "Diogo Moreira",
+     "team": "Pro Honda LCR",
+     "color": "#E0E0E0",
+     "value": "+9.220",
+     "out": false,
+     "points": 0,
+     "maker": "Honda"
+    },
+    {
+     "pos": 11,
+     "name": "Fermin Aldeguer",
+     "team": "BK8 Gresini Racing MotoGP",
+     "color": "#92A8D1",
+     "value": "+9.429",
+     "out": false,
+     "points": 0,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 12,
+     "name": "Brad Binder",
+     "team": "Red Bull KTM Factory Racing",
+     "color": "#F37021",
+     "value": "+9.483",
+     "out": false,
+     "points": 0,
+     "maker": "KTM"
+    },
+    {
+     "pos": 13,
+     "name": "Luca Marini",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "value": "+12.727",
+     "out": false,
+     "points": 0,
+     "maker": "Honda"
+    },
+    {
+     "pos": 14,
+     "name": "Franco Morbidelli",
+     "team": "Pertamina Enduro VR46 Racing Team",
+     "color": "#CCFF00",
+     "value": "+12.874",
+     "out": false,
+     "points": 0,
+     "maker": "Ducati"
+    },
+    {
+     "pos": 15,
+     "name": "Maverick Viñales",
+     "team": "Red Bull KTM Tech3",
+     "color": "#E96B1E",
+     "value": "+13.483",
+     "out": false,
+     "points": 0,
+     "maker": "KTM"
+    },
+    {
+     "pos": 16,
+     "name": "Jake Dixon",
+     "team": "Honda HRC Castrol",
+     "color": "#D01012",
+     "value": "+19.373",
+     "out": false,
+     "points": 0,
+     "maker": "Honda"
+    },
+    {
+     "pos": "–",
+     "name": "Marco Bezzecchi",
+     "team": "Aprilia Racing",
+     "color": "#8A2BE2",
+     "value": "Ritirato",
+     "out": true,
+     "points": 0,
+     "maker": "Aprilia"
+    },
+    {
+     "pos": "–",
+     "name": "Francesco Bagnaia",
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "value": "Non partito",
+     "out": true,
+     "points": 0,
+     "maker": "Ducati"
+    }
+   ]
   }
  },
- "updatedAt": "2026-11-07T13:35:49.010Z"
+ "updatedAt": "2026-11-07T18:20:55.887Z"
 }

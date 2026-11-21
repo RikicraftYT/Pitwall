@@ -642,7 +642,259 @@
      "out": false
     }
    ]
+  },
+  "Q1": {
+   "final": true,
+   "source": "MotoGP.com",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "Adrian Cruces",
+     "team": "CIP Green Power",
+     "color": "#7EDC62",
+     "value": "1:46.937",
+     "out": false
+    },
+    {
+     "pos": 2,
+     "name": "Scott Ogden",
+     "team": "CIP Green Power",
+     "color": "#7EDC62",
+     "value": "+0.387",
+     "out": false
+    },
+    {
+     "pos": 3,
+     "name": "Zen Mitani",
+     "team": "Honda Team Asia",
+     "color": "#FFFFFF",
+     "value": "+0.822",
+     "out": false
+    },
+    {
+     "pos": 4,
+     "name": "Ruche Moodley",
+     "team": "CODE Motorsports",
+     "color": "#D90526",
+     "value": "+0.921",
+     "out": false
+    },
+    {
+     "pos": 5,
+     "name": "Ryusei Yamanaka",
+     "team": "AEON Credit - MT Helmets - MSI",
+     "color": "#F02D35",
+     "value": "+0.959",
+     "out": false
+    },
+    {
+     "pos": 6,
+     "name": "Eddie O'shea",
+     "team": "GRYD Racing",
+     "color": "#4692C1",
+     "value": "+1.203",
+     "out": false
+    },
+    {
+     "pos": 7,
+     "name": "Jesus Rios",
+     "team": "Rivacold Snipers Team",
+     "color": "#F7EC09",
+     "value": "+1.348",
+     "out": false
+    },
+    {
+     "pos": 8,
+     "name": "Kiattisak Singhapong",
+     "team": "Rivacold Snipers Team",
+     "color": "#F7EC09",
+     "value": "+1.392",
+     "out": false
+    },
+    {
+     "pos": 9,
+     "name": "Cormac Buchanan",
+     "team": "CODE Motorsports",
+     "color": "#D90526",
+     "value": "+1.454",
+     "out": false
+    },
+    {
+     "pos": 10,
+     "name": "Casey O'gorman",
+     "team": "SIC58 Squadra Corse",
+     "color": "#D20F2A",
+     "value": "+1.484",
+     "out": false
+    },
+    {
+     "pos": 11,
+     "name": "Beñat Fernandez",
+     "team": "LEVEL UP - MTA",
+     "color": "#D04051",
+     "value": "+1.587",
+     "out": false
+    },
+    {
+     "pos": 12,
+     "name": "Leo Rammerstorfer",
+     "team": "SIC58 Squadra Corse",
+     "color": "#D20F2A",
+     "value": "+1.884",
+     "out": false
+    }
+   ]
+  },
+  "Q2": {
+   "final": true,
+   "source": "MotoGP.com",
+   "rows": [
+    {
+     "pos": 1,
+     "name": "David Almansa",
+     "team": "Liqui Moly Dynavolt Intact GP",
+     "color": "#525354",
+     "value": "1:45.652",
+     "out": false
+    },
+    {
+     "pos": 2,
+     "name": "Brian Uriarte",
+     "team": "Red Bull KTM Ajo",
+     "color": "#F05C06",
+     "value": "+0.462",
+     "out": false
+    },
+    {
+     "pos": 3,
+     "name": "David Muñoz",
+     "team": "Liqui Moly Dynavolt Intact GP",
+     "color": "#525354",
+     "value": "+0.580",
+     "out": false
+    },
+    {
+     "pos": 4,
+     "name": "Joel Kelso",
+     "team": "GRYD Racing",
+     "color": "#4692C1",
+     "value": "+0.599",
+     "out": false
+    },
+    {
+     "pos": 5,
+     "name": "Joel Esteban",
+     "team": "LEVEL UP - MTA",
+     "color": "#D04051",
+     "value": "+0.663",
+     "out": false
+    },
+    {
+     "pos": 6,
+     "name": "Rico Salmela",
+     "team": "Red Bull KTM Tech3",
+     "color": "#CA4E05",
+     "value": "+0.702",
+     "out": false
+    },
+    {
+     "pos": 7,
+     "name": "Maximo Quiles",
+     "team": "CFMOTO Gaviota Aspar Team",
+     "color": "#0EA9AF",
+     "value": "+0.731",
+     "out": false
+    },
+    {
+     "pos": 8,
+     "name": "Guido Pini",
+     "team": "Leopard Racing",
+     "color": "#80D3CE",
+     "value": "+0.745",
+     "out": false
+    },
+    {
+     "pos": 9,
+     "name": "Alvaro Carpe",
+     "team": "Red Bull KTM Ajo",
+     "color": "#F05C06",
+     "value": "+0.760",
+     "out": false
+    },
+    {
+     "pos": 10,
+     "name": "Valentin Perrone",
+     "team": "Red Bull KTM Tech3",
+     "color": "#CA4E05",
+     "value": "+0.950",
+     "out": false
+    },
+    {
+     "pos": 11,
+     "name": "Adrian Cruces",
+     "team": "CIP Green Power",
+     "color": "#7EDC62",
+     "value": "+1.026",
+     "out": false
+    },
+    {
+     "pos": 12,
+     "name": "Hakim Danish",
+     "team": "AEON Credit - MT Helmets - MSI",
+     "color": "#F02D35",
+     "value": "+1.028",
+     "out": false
+    },
+    {
+     "pos": 13,
+     "name": "Scott Ogden",
+     "team": "CIP Green Power",
+     "color": "#7EDC62",
+     "value": "+1.059",
+     "out": false
+    },
+    {
+     "pos": 14,
+     "name": "Adrian Fernandez",
+     "team": "Leopard Racing",
+     "color": "#80D3CE",
+     "value": "+1.127",
+     "out": false
+    },
+    {
+     "pos": 15,
+     "name": "Marco Morelli",
+     "team": "CFMOTO Gaviota Aspar Team",
+     "color": "#0EA9AF",
+     "value": "+1.472",
+     "out": false
+    },
+    {
+     "pos": 16,
+     "name": "Veda Pratama",
+     "team": "Honda Team Asia",
+     "color": "#FFFFFF",
+     "value": "+1.581",
+     "out": false
+    },
+    {
+     "pos": 17,
+     "name": "Zen Mitani",
+     "team": "Honda Team Asia",
+     "color": "#FFFFFF",
+     "value": "+1.797",
+     "out": false
+    },
+    {
+     "pos": 18,
+     "name": "Ruche Moodley",
+     "team": "CODE Motorsports",
+     "color": "#D90526",
+     "value": "+2.558",
+     "out": false
+    }
+   ]
   }
  },
- "updatedAt": "2026-11-21T12:18:33.955Z"
+ "updatedAt": "2026-11-21T19:40:30.811Z"
 }

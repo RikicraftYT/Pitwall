@@ -18,49 +18,49 @@
      "name": "Jorge Martin",
      "team": "Aprilia Racing",
      "color": "#8A2BE2",
-     "points": 371
+     "points": 376
     },
     {
      "pos": 3,
      "name": "Marco Bezzecchi",
      "team": "Aprilia Racing",
      "color": "#8A2BE2",
-     "points": 357
+     "points": 369
     },
     {
      "pos": 4,
      "name": "Pedro Acosta",
      "team": "Red Bull KTM Factory Racing",
      "color": "#F37021",
-     "points": 309
+     "points": 315
     },
     {
      "pos": 5,
      "name": "Ai Ogura",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#008DD2",
-     "points": 294
+     "points": 298
     },
     {
      "pos": 6,
      "name": "Fabio Di Giannantonio",
      "team": "Pertamina Enduro VR46 Racing Team",
      "color": "#CCFF00",
-     "points": 282
+     "points": 285
     },
     {
      "pos": 7,
      "name": "Raul Fernandez",
      "team": "SuperFile Trackhouse MotoGP Team",
      "color": "#008DD2",
-     "points": 258
+     "points": 267
     },
     {
      "pos": 8,
      "name": "Alex Marquez",
      "team": "BK8 Gresini Racing MotoGP",
      "color": "#92A8D1",
-     "points": 197
+     "points": 204
     },
     {
      "pos": 9,
@@ -102,7 +102,7 @@
      "name": "Fabio Quartararo",
      "team": "Monster Energy Yamaha MotoGP Team",
      "color": "#0033A0",
-     "points": 79
+     "points": 81
     },
     {
      "pos": 15,
@@ -149,9 +149,9 @@
     {
      "pos": 21,
      "name": "Iker Lecuona",
-     "team": "BK8 Gresini Racing MotoGP",
-     "color": "#92A8D1",
-     "points": 18
+     "team": "Ducati Lenovo Team",
+     "color": "#C51E14",
+     "points": 19
     },
     {
      "pos": 22,
@@ -249,42 +249,42 @@
      "name": "Aprilia Racing",
      "team": "Aprilia",
      "color": "#8A2BE2",
-     "points": 728
+     "points": 745
     },
     {
      "pos": 2,
      "name": "Ducati Lenovo Team",
      "team": "Ducati",
      "color": "#C51E14",
-     "points": 604
+     "points": 623
     },
     {
      "pos": 3,
      "name": "SuperFile Trackhouse MotoGP Team",
      "team": "Aprilia",
      "color": "#008DD2",
-     "points": 552
+     "points": 565
     },
     {
      "pos": 4,
      "name": "Red Bull KTM Factory Racing",
      "team": "KTM",
      "color": "#F37021",
-     "points": 427
+     "points": 433
     },
     {
      "pos": 5,
      "name": "Pertamina Enduro VR46 Racing Team",
      "team": "Ducati",
      "color": "#CCFF00",
-     "points": 352
+     "points": 355
     },
     {
      "pos": 6,
      "name": "BK8 Gresini Racing MotoGP",
      "team": "Ducati",
      "color": "#92A8D1",
-     "points": 344
+     "points": 333
     },
     {
      "pos": 7,
@@ -312,7 +312,7 @@
      "name": "Monster Energy Yamaha MotoGP Team",
      "team": "Yamaha",
      "color": "#0033A0",
-     "points": 108
+     "points": 110
     },
     {
      "pos": 11,
@@ -332,21 +332,21 @@
      "name": "Ducati",
      "team": "",
      "color": "#C51E14",
-     "points": 569
+     "points": 576
     },
     {
      "pos": 2,
      "name": "Aprilia",
      "team": "",
      "color": "#8A2BE2",
-     "points": 561
+     "points": 573
     },
     {
      "pos": 3,
      "name": "KTM",
      "team": "",
      "color": "#F37021",
-     "points": 363
+     "points": 369
     },
     {
      "pos": 4,
@@ -360,11 +360,11 @@
      "name": "Yamaha",
      "team": "",
      "color": "#0033A0",
-     "points": 105
+     "points": 107
     }
    ]
   }
  ],
  "source": "MotoGP.com",
- "updatedAt": "2026-11-19T18:04:25.842Z"
+ "updatedAt": "2026-11-21T19:40:25.454Z"
 }

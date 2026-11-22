@@ -978,7 +978,7 @@
    ]
   },
   "RAC": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -1204,5 +1204,5 @@
    ]
   }
  },
- "updatedAt": "2026-11-22T14:49:31.080Z"
+ "updatedAt": "2026-11-22T20:57:41.759Z"
 }

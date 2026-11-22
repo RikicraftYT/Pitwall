@@ -960,7 +960,7 @@
    ]
   },
   "RAC": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -1225,9 +1225,9 @@
     },
     {
      "pos": "–",
-     "name": "Filip Salac",
-     "team": "OnlyFans American Racing Team",
-     "color": "#132EAA",
+     "name": "Jose Antonio Rueda",
+     "team": "Red Bull KTM Ajo",
+     "color": "#F35C06",
      "value": "Ritirato",
      "out": true,
      "points": 0,
@@ -1235,9 +1235,9 @@
     },
     {
      "pos": "–",
-     "name": "Jose Antonio Rueda",
-     "team": "Red Bull KTM Ajo",
-     "color": "#F35C06",
+     "name": "Filip Salac",
+     "team": "OnlyFans American Racing Team",
+     "color": "#132EAA",
      "value": "Ritirato",
      "out": true,
      "points": 0,
@@ -1246,5 +1246,5 @@
    ]
   }
  },
- "updatedAt": "2026-11-22T14:49:32.773Z"
+ "updatedAt": "2026-11-22T20:57:43.559Z"
 }

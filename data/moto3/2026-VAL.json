@@ -216,7 +216,7 @@
    ]
   },
   "PR": {
-   "final": false,
+   "final": true,
    "source": "MotoGP.com",
    "rows": [
     {
@@ -430,5 +430,5 @@
    ]
   }
  },
- "updatedAt": "2026-11-27T13:37:20.023Z"
+ "updatedAt": "2026-11-27T22:21:53.351Z"
 }
